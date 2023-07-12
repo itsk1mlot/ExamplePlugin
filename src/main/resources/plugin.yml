@@ -1,0 +1,4 @@
+name: ExamplePlugin
+main: io.github.lucystudio.example.Main
+version: 1.0
+api-version: 1.20
